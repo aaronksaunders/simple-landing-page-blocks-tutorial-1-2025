@@ -2,6 +2,9 @@
 
 A modern, component-based landing page built with Next.js and Payload CMS. This project demonstrates the implementation of a flexible, block-based content management system that allows for dynamic page construction.
 
+## VIDEO
+- https://youtu.be/qSkSKlw_fW8
+
 ## Features
 
 - **Component-Based Architecture**: Modular design using React components
